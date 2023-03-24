@@ -72,7 +72,7 @@ a{
 
 /* banner da pag */
 #banner{
-    background-image: url("/atividade/img/header.png");
+    background-image: url("../img/header.png");
     background-size: cover;
     background-position: center;
     width: 100%;
